@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//functions created before declaring main
+//functions created before declaring
 int max=0;
 int max_of_four(int a , int b , int c , int d){
     max=(a>b) ? a:b;
