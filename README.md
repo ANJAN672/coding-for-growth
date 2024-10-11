@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
+| [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
 ## Stack
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
+## Sorting
+|  |
+| ------- |
+| [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
 <!---LeetCode Topics End-->
