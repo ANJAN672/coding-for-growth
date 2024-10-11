@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/ANJAN672/coding-for-growth/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/ANJAN672/coding-for-growth/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
