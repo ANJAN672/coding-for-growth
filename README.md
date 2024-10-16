@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/ANJAN672/coding-for-growth/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
 ## Database
 |  |
