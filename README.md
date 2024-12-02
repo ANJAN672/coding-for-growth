@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ANJAN672/coding-for-growth/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/ANJAN672/coding-for-growth/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ANJAN672/coding-for-growth/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ANJAN672/coding-for-growth/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ANJAN672/coding-for-growth/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
