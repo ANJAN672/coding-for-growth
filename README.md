@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ANJAN672/coding-for-growth/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJAN672/coding-for-growth/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/ANJAN672/coding-for-growth/tree/master/1642-water-bottles) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ANJAN672/coding-for-growth/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ANJAN672/coding-for-growth/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
