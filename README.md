@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ANJAN672/coding-for-growth/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ANJAN672/coding-for-growth/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
