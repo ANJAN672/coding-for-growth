@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/ANJAN672/coding-for-growth/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ANJAN672/coding-for-growth/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0039-combination-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ANJAN672/coding-for-growth/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
