@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
 ## Stack
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ANJAN672/coding-for-growth/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
