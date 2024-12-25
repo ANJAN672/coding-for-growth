@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ANJAN672/coding-for-growth/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ANJAN672/coding-for-growth/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## String
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ANJAN672/coding-for-growth/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ANJAN672/coding-for-growth/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ANJAN672/coding-for-growth/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
