@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
 ## Stack
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ANJAN672/coding-for-growth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Counting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ANJAN672/coding-for-growth/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
 | ------- |
