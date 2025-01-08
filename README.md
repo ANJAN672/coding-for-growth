@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2465-shifting-letters-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -213,4 +215,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
