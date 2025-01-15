@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -227,9 +229,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ANJAN672/coding-for-growth/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -244,5 +248,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
