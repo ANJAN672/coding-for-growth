@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ANJAN672/coding-for-growth/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ANJAN672/coding-for-growth/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ANJAN672/coding-for-growth/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ANJAN672/coding-for-growth/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ANJAN672/coding-for-growth/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
