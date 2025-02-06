@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/ANJAN672/coding-for-growth/tree/master/1127-last-stone-weight) |
+| [1364-tuple-with-same-product](https://github.com/ANJAN672/coding-for-growth/tree/master/1364-tuple-with-same-product) |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJAN672/coding-for-growth/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANJAN672/coding-for-growth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/ANJAN672/coding-for-growth/tree/master/0889-buddy-strings) |
+| [1364-tuple-with-same-product](https://github.com/ANJAN672/coding-for-growth/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANJAN672/coding-for-growth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## String
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/ANJAN672/coding-for-growth/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANJAN672/coding-for-growth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
 ## Matrix
