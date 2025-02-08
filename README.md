@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ANJAN672/coding-for-growth/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANJAN672/coding-for-growth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2434-design-a-number-container-system](https://github.com/ANJAN672/coding-for-growth/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANJAN672/coding-for-growth/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ANJAN672/coding-for-growth/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
+| [2434-design-a-number-container-system](https://github.com/ANJAN672/coding-for-growth/tree/master/2434-design-a-number-container-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ANJAN672/coding-for-growth/tree/master/1127-last-stone-weight) |
+| [2434-design-a-number-container-system](https://github.com/ANJAN672/coding-for-growth/tree/master/2434-design-a-number-container-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -351,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ANJAN672/coding-for-growth/tree/master/0023-merge-k-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/ANJAN672/coding-for-growth/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
