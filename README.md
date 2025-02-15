@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/ANJAN672/coding-for-growth/tree/master/1642-water-bottles) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ANJAN672/coding-for-growth/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ANJAN672/coding-for-growth/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ANJAN672/coding-for-growth/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ANJAN672/coding-for-growth/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
 | ------- |
