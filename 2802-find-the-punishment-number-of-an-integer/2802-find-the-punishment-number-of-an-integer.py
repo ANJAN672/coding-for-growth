@@ -13,4 +13,9 @@ class Solution:
                     return True
             return False
 
-        return sum(i * i for i in range(1, n + 1) if canPartition(str(i * i), 0, i))
+        total=0
+        for i in range(1,n+1):
+            sq=i*i
+            if canPartition(str(sq),0,i):
+                total+=sq
+        return total
