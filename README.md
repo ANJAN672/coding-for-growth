@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/ANJAN672/coding-for-growth/tree/master/0889-buddy-strings) |
 | [1160-letter-tile-possibilities](https://github.com/ANJAN672/coding-for-growth/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ANJAN672/coding-for-growth/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ANJAN672/coding-for-growth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANJAN672/coding-for-growth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ANJAN672/coding-for-growth/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/ANJAN672/coding-for-growth/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ANJAN672/coding-for-growth/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ANJAN672/coding-for-growth/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
