@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/ANJAN672/coding-for-growth/tree/master/0889-buddy-strings) |
 | [1160-letter-tile-possibilities](https://github.com/ANJAN672/coding-for-growth/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/ANJAN672/coding-for-growth/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANJAN672/coding-for-growth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2434-design-a-number-container-system](https://github.com/ANJAN672/coding-for-growth/tree/master/2434-design-a-number-container-system) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ANJAN672/coding-for-growth/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ANJAN672/coding-for-growth/tree/master/2434-design-a-number-container-system) |
 ## Binary Search
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ANJAN672/coding-for-growth/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## String Matching
 |  |
 | ------- |
