@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ANJAN672/coding-for-growth/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJAN672/coding-for-growth/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANJAN672/coding-for-growth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/ANJAN672/coding-for-growth/tree/master/1642-water-bottles) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ANJAN672/coding-for-growth/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ANJAN672/coding-for-growth/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ANJAN672/coding-for-growth/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Design
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ANJAN672/coding-for-growth/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANJAN672/coding-for-growth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
