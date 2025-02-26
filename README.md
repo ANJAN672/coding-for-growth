@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ANJAN672/coding-for-growth/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/ANJAN672/coding-for-growth/tree/master/1002-maximum-width-ramp) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/ANJAN672/coding-for-growth/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANJAN672/coding-for-growth/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ANJAN672/coding-for-growth/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANJAN672/coding-for-growth/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/ANJAN672/coding-for-growth/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ANJAN672/coding-for-growth/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ANJAN672/coding-for-growth/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sliding Window
 |  |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
