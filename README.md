@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/ANJAN672/coding-for-growth/tree/master/0889-buddy-strings) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ANJAN672/coding-for-growth/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ANJAN672/coding-for-growth/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## String Matching
 |  |
