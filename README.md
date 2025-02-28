@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/ANJAN672/coding-for-growth/tree/master/0889-buddy-strings) |
 | [1160-letter-tile-possibilities](https://github.com/ANJAN672/coding-for-growth/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ANJAN672/coding-for-growth/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ANJAN672/coding-for-growth/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ANJAN672/coding-for-growth/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ANJAN672/coding-for-growth/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
+| [1170-shortest-common-supersequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Design
 |  |
