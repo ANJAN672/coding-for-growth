@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ANJAN672/coding-for-growth/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ANJAN672/coding-for-growth/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ANJAN672/coding-for-growth/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ANJAN672/coding-for-growth/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/ANJAN672/coding-for-growth/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJAN672/coding-for-growth/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
