@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ANJAN672/coding-for-growth/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJAN672/coding-for-growth/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ANJAN672/coding-for-growth/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/ANJAN672/coding-for-growth/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0119-pascals-triangle-ii) |
 | [1170-shortest-common-supersequence](https://github.com/ANJAN672/coding-for-growth/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ANJAN672/coding-for-growth/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
