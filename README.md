@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ANJAN672/coding-for-growth/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJAN672/coding-for-growth/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ANJAN672/coding-for-growth/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ANJAN672/coding-for-growth/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
