@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJAN672/coding-for-growth/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ANJAN672/coding-for-growth/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0202-happy-number) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ANJAN672/coding-for-growth/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANJAN672/coding-for-growth/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ANJAN672/coding-for-growth/tree/master/0908-middle-of-the-linked-list) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ANJAN672/coding-for-growth/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ANJAN672/coding-for-growth/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANJAN672/coding-for-growth/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
