@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ANJAN672/coding-for-growth/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
@@ -236,10 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ANJAN672/coding-for-growth/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ANJAN672/coding-for-growth/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANJAN672/coding-for-growth/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ANJAN672/coding-for-growth/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
