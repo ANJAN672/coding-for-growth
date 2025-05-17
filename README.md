@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ANJAN672/coding-for-growth/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ANJAN672/coding-for-growth/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/ANJAN672/coding-for-growth/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/ANJAN672/coding-for-growth/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -238,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ANJAN672/coding-for-growth/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ANJAN672/coding-for-growth/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ANJAN672/coding-for-growth/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ANJAN672/coding-for-growth/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ANJAN672/coding-for-growth/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/ANJAN672/coding-for-growth/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANJAN672/coding-for-growth/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ANJAN672/coding-for-growth/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/ANJAN672/coding-for-growth/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ANJAN672/coding-for-growth/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ANJAN672/coding-for-growth/tree/master/2121-find-if-path-exists-in-graph) |
