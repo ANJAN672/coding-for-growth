@@ -5,8 +5,7 @@ class Solution:
         courses=prerequisites
         for a,b in courses:
             g[a].append(b)
-        
-
+            
         UNVISITED,VISITING,VISITED=0,1,2
         states=[UNVISITED]*numCourses
 
