@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ANJAN672/coding-for-growth/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ANJAN672/coding-for-growth/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/ANJAN672/coding-for-growth/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ANJAN672/coding-for-growth/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/ANJAN672/coding-for-growth/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ANJAN672/coding-for-growth/tree/master/0424-longest-repeating-character-replacement) |
