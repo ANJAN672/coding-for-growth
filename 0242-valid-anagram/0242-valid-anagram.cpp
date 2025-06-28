@@ -6,11 +6,11 @@ public:
         }
         unordered_map<char,int> hashmap;
 
-        for(int i=0;i<s.length();i++){
-            hashmap[s[i]]++;
+        for(char c:s){
+            hashmap[c]++;
         }
-        for(int i=0;i<t.length();i++){
-            hashmap[t[i]]--;
+        for(char d:t){
+            hashmap[d]--;
         }
         for(auto& entry:hashmap){
             if(entry.second!=0){
