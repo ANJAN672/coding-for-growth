@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ANJAN672/coding-for-growth/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ANJAN672/coding-for-growth/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ANJAN672/coding-for-growth/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ANJAN672/coding-for-growth/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0119-pascals-triangle-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ANJAN672/coding-for-growth/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANJAN672/coding-for-growth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANJAN672/coding-for-growth/tree/master/0242-valid-anagram) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ANJAN672/coding-for-growth/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANJAN672/coding-for-growth/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ANJAN672/coding-for-growth/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ANJAN672/coding-for-growth/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
