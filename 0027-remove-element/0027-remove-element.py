@@ -5,9 +5,9 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        count=len(nums)
-        for _ in range(len(nums)):
-            if val in nums:
-                nums.remove(val)
-                count -= 1
-        return count
+        i=0
+        for j in range(len(nums)):
+            if nums[j]!=val:
+                nums[i]=nums[j]
+                i+=1
+        return i
