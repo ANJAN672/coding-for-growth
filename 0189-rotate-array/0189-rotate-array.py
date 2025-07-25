@@ -5,7 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        k = k % n  # In case k is greater than the size of the array
-        nums[:] = nums[-k:] + nums[:-k]  # Slice the array and concatenate
-        return nums  # This return statement isn't necessary as the problem states      in-place modification
+        k%=len(nums)
+        nums.reverse()
+        nums[:k]=nums[:k][::-1]
+        nums[k:]=nums[k:][::-1]
+        return nums
