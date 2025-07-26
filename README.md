@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ANJAN672/coding-for-growth/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ANJAN672/coding-for-growth/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ANJAN672/coding-for-growth/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ANJAN672/coding-for-growth/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ANJAN672/coding-for-growth/tree/master/0078-subsets) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ANJAN672/coding-for-growth/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ANJAN672/coding-for-growth/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ANJAN672/coding-for-growth/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ANJAN672/coding-for-growth/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANJAN672/coding-for-growth/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
