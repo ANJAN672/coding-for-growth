@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANJAN672/coding-for-growth/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/ANJAN672/coding-for-growth/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ANJAN672/coding-for-growth/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ANJAN672/coding-for-growth/tree/master/0417-pacific-atlantic-water-flow) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ANJAN672/coding-for-growth/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ANJAN672/coding-for-growth/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ANJAN672/coding-for-growth/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
@@ -545,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ANJAN672/coding-for-growth/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0210-course-schedule-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ANJAN672/coding-for-growth/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
