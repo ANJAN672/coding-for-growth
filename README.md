@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ANJAN672/coding-for-growth/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANJAN672/coding-for-growth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ANJAN672/coding-for-growth/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ANJAN672/coding-for-growth/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANJAN672/coding-for-growth/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/1019-squares-of-a-sorted-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ANJAN672/coding-for-growth/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANJAN672/coding-for-growth/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ANJAN672/coding-for-growth/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ANJAN672/coding-for-growth/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ANJAN672/coding-for-growth/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ANJAN672/coding-for-growth/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ANJAN672/coding-for-growth/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ANJAN672/coding-for-growth/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ANJAN672/coding-for-growth/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ANJAN672/coding-for-growth/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANJAN672/coding-for-growth/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ANJAN672/coding-for-growth/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2465-shifting-letters-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANJAN672/coding-for-growth/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Tree
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ANJAN672/coding-for-growth/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ANJAN672/coding-for-growth/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/ANJAN672/coding-for-growth/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ANJAN672/coding-for-growth/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Graph
 |  |
