@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ANJAN672/coding-for-growth/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/ANJAN672/coding-for-growth/tree/master/0197-rising-temperature) |
 | [1258-article-views-i](https://github.com/ANJAN672/coding-for-growth/tree/master/1258-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ANJAN672/coding-for-growth/tree/master/1757-recyclable-and-low-fat-products) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ANJAN672/coding-for-growth/tree/master/1908-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
