@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ANJAN672/coding-for-growth/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ANJAN672/coding-for-growth/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ANJAN672/coding-for-growth/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/ANJAN672/coding-for-growth/tree/master/1014-k-closest-points-to-origin) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ANJAN672/coding-for-growth/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANJAN672/coding-for-growth/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ANJAN672/coding-for-growth/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/ANJAN672/coding-for-growth/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ANJAN672/coding-for-growth/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ANJAN672/coding-for-growth/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ANJAN672/coding-for-growth/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ANJAN672/coding-for-growth/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ANJAN672/coding-for-growth/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ANJAN672/coding-for-growth/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
